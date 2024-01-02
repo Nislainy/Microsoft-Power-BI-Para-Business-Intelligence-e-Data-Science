@@ -1,5 +1,5 @@
 # Power-Bi
-[Dashboards](https://github.com/Nislainy/Power-Bi/tree/main)
+[ ! [NPM](https://img.shields.io/npm/l/react)](https://github.com/Nislainy/Power-Bi/tree/main)
 
 # Sobre o projeto
 
