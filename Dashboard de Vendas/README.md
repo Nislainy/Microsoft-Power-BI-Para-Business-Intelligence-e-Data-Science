@@ -42,6 +42,8 @@ Com os **produtos mais vendidos** e as **marcas mais vendidas**, conseguimos ter
 
 Esse filtro foi desenvolvido, pois, queria que o usuário tivesse uma maior interação com o dashboard, para a utilização basta apertar: **Ctrl** para abrir ou fechar o painél de filtros. 
 
-**Painél com Filtro Aberto**
+### **Autora:**
 
-![com filtro](image.jpg)
+Nislainy Alves da Silva
+
+[LinkedIn: Nislainy](https://in/nislainy-alves-599652208)
