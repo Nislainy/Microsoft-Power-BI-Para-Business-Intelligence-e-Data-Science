@@ -45,5 +45,3 @@ Esse filtro foi desenvolvido, pois, queria que o usuário tivesse uma maior inte
 ### **Autora:**
 
 Nislainy Alves da Silva
-
-[LinkedIn: Nislainy](https://in/nislainy-alves-599652208)
