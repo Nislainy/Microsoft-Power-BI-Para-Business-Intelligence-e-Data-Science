@@ -36,7 +36,7 @@ Destaquei o **valor de vendas mensais**, pois, assim, é possível analisar as m
 
 As **vendas por gênero** são importantes, pois são uma análise do seu público-alvo, e assim fica mais fácil até mesmo para desenvolver personas conforme o seu negócio. 
 
-Com os **produtos mais vendidos** e as **marcas mais vendidas**, conseguimos ter uma base no que devemos investir e conseguimos identificar o que o meu público gosta. 
+Com os **produtos mais vendidos** e as **marcas mais vendidas**, conseguimos ter uma base no que devemos investir e conseguimos identificar as preferências do público-alvo.
 
 ## **6. Painel de Filtros:**
 
