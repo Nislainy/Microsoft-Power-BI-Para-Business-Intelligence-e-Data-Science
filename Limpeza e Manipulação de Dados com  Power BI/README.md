@@ -6,7 +6,7 @@ Esse foi um projeto muito importante, pois adquiri conhecimentos fundamentais. O
 
 O relatório era composto por: 
 
-> **Valores Null**: ausência de dados.
+> **Valores Null**: ausência de dados:
 
 Para sanar o problema, retiramos a **média,** que seria a soma dividida pela quantidade de elementos.
 
@@ -16,13 +16,13 @@ Para a **mediana**, ordenamos os dados de forma crescente, somamos os valores do
 
 **Valores Null:** foram substituídos pela mediana que são os valores mais próximos da média. 
 
-> **Valores Duplicados**
+> **Valores Duplicados:**
 
 Realizamos a contagem de ID's, pois, nessa base de dados, o ID deve ser algo único, como se fossem dados de RG ou CPF, por exemplo, sendo assim foi determinado que o ID seria um por pessoa. 
 
 Ao realizarmos a contagem e a contagem distinta, foi identificado uma diferença entre os números, sendo assim, decidi realizar a retirada desses valores duplicados, pois, não teria impacto nas análises. 
 
-> **Detecção e tratamento de outliers**
+> **Detecção e tratamento de outliers:**
 
 Realizei o tratamento de outliers, que basicamente é tratar os valores extremos que podem afetar as nossas análises. E o dado extremo identificado foi a altura, substituída pela mediana. 
 Então, criei novas medidas para identificar os quartis para que eu pudesse entender a dispersão dos dados e identificar a presença de valores extremos. 
